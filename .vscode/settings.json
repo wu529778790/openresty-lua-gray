@@ -1,0 +1,10 @@
+{
+    "Lua.runtime.version": "LuaJIT",
+    "Lua.diagnostics.globals": [
+        "ngx",
+        "toString"
+    ],
+    "Lua.workspace.library": [
+        "${3rd}/OpenResty/library"
+    ]
+}
