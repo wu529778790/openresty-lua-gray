@@ -1,0 +1,8 @@
+{
+  "redis": {
+    "host": "",
+    "port": "",
+    "password": "",
+    "database": ""
+  }
+}
